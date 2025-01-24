@@ -1,2 +1,4 @@
-# Coursera-IBM-Getting-Started-With-Git-and-Github
-Peer-graded Assignment:ibm getting started with git and github
+## Coursera IBM Full stack software developer course 2, Getting started with Git and Github week 3 final project
+
+### Authors
+Wasif Mahmood
